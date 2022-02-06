@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-05T21:22:33 EST" name="Default suite" finished-at="2022-02-05T21:24:44 EST" duration-ms="131801">
+    <groups>
+    </groups>
+    <test started-at="2022-02-05T21:22:33 EST" name="Default test" finished-at="2022-02-05T21:24:44 EST" duration-ms="131801">
+      <class name="testCases.RunEMI_Calculator">
+        <test-method is-config="true" signature="android_Setup()[pri:0, instance:testCases.RunEMI_Calculator@e15b7e8]" started-at="2022-02-05T21:22:33 EST" name="android_Setup" finished-at="2022-02-05T21:22:41 EST" duration-ms="8085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- android_Setup -->
+        <test-method signature="myTest(long,double,int,double,long,long,long,long)[pri:0, instance:testCases.RunEMI_Calculator@e15b7e8]" started-at="2022-02-05T21:22:41 EST" name="myTest" data-provider="data" finished-at="2022-02-05T21:23:11 EST" duration-ms="30165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[4568]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9643]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[109643]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method signature="myTest(long,double,int,double,long,long,long,long)[pri:0, instance:testCases.RunEMI_Calculator@e15b7e8]" started-at="2022-02-05T21:23:11 EST" name="myTest" data-provider="data" finished-at="2022-02-05T21:23:34 EST" duration-ms="23434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[325000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9.5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6826]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[84536]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[4875]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[409536]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method signature="myTest(long,double,int,double,long,long,long,long)[pri:0, instance:testCases.RunEMI_Calculator@e15b7e8]" started-at="2022-02-05T21:23:34 EST" name="myTest" data-provider="data" finished-at="2022-02-05T21:23:58 EST" duration-ms="23346" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[450000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.8]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[7705]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[197228]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8100]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[647228]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method signature="myTest(long,double,int,double,long,long,long,long)[pri:0, instance:testCases.RunEMI_Calculator@e15b7e8]" started-at="2022-02-05T21:23:58 EST" name="myTest" data-provider="data" finished-at="2022-02-05T21:24:21 EST" duration-ms="23350" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[99000000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.25]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2510896]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[21522996]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1237500]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[120522996]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method signature="myTest(long,double,int,double,long,long,long,long)[pri:0, instance:testCases.RunEMI_Calculator@e15b7e8]" started-at="2022-02-05T21:24:21 EST" name="myTest" data-provider="data" finished-at="2022-02-05T21:24:44 EST" duration-ms="22808" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2.2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[759]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[31995]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1100]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[81995]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RunEMI_Calculator@e15b7e8]" started-at="2022-02-05T21:24:44 EST" name="tearDown" finished-at="2022-02-05T21:24:44 EST" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.RunEMI_Calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
